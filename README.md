@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Maleeq 👋
 
-<!--
-**0xmaleeq/0xmaleeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I trade crypto/nfts and build tools around it.
+I'm a beginner developer learning in public, so expect fast progress and rough edges.
 
-Here are some ideas to get you started:
+## What I'm building
+- **Crypto analysis Telegram bot**: technical and fundamental analysis from your chat
+- **A x mcp server**: acts as a bridge between my ai agents and x 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- Learning: [Python]
+- Competing in hackathons
+
+## Find me
+- Twitter/X: [@0xmaleeq]
+- Telegram: [@oxmaleeq]
